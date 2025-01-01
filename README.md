@@ -1,0 +1,2 @@
+# React useEffect Infinite Loop Bug
+This repository demonstrates a common React bug: an infinite loop caused by incorrectly updating state within the useEffect dependency array. The bug.js file contains the buggy code, while bugSolution.js provides the corrected version.
